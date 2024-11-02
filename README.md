@@ -1,2 +1,2 @@
 # julot2
-repositório estuda
+repositório estuda para usar
